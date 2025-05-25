@@ -30,7 +30,7 @@ If you have a live demo, add a link here:
 [Live Demo](#)
 
 Or add screenshots/gifs:
-![Screenshot](path/to/screenshot.png)
+![Screenshot](public/screenshots/screenshot(7))
 
 ## Installation
 
