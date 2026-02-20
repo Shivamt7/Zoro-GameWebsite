@@ -27,7 +27,7 @@ Provide a detailed description of your project, its purpose, and its goals.
 ## Demo
 
 If you have a live demo, add a link here:
-[Live Demo](#)
+[Live Demo](https://shivam-zoro-gamewebsite.netlify.app/)
 
 Or add screenshots/gifs:
 ![Screenshot](public/screenshots/screenshot(7))
